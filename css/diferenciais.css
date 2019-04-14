@@ -1,3 +1,14 @@
+.secaoDiferenciais-titulo {
+  /* display: none; */
+  /* visibility: hidden;  */
+  opacity: 0;
+  color: red;
+  width: 1px;
+  height: 1px;
+  font-size: 1px;
+  position: absolute;
+  margin: 0 0 0 -100%;
+}
 
 .diferenciais {
   text-align: center;
